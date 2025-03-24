@@ -11,6 +11,7 @@ This project aims to predict the level of a customer’s account turnover based 
  - HasCrCard 
  - IsActiveMember 
  - EstimatedSalary 
+ 
  Whereas "Exited" column is our target variable
 
 
